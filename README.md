@@ -18,7 +18,6 @@ The goal is to manage doctors and display hospital information dynamically like 
 - Bootstrap 4/5
 - FontAwesome
 
-## 📷 Screenshots
 
 
 <img width="1920" height="873" alt="Screenshot 2025-07-23 134351" src="https://github.com/user-attachments/assets/b2fbe583-2757-4fd4-a39b-150b62d6ffcd" />
